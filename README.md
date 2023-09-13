@@ -9,3 +9,5 @@ https://vitejs.dev/
 https://github.com/Huachao/vscode-restclient
 
 https://www.prisma.io/docs/getting-started/quickstart
+
+https://github.com/fastify/fastify-multipart
